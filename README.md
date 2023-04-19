@@ -10,7 +10,7 @@
            for current flight </br></br>
        **b) Iterate while loop till last second airport (rightAirport < fuelAtAirportsArrLength - 1)**</br>
          For loop for one flight : </br>
-            - intialise the max varibale which will contain the max value among the possible 
+            - intialise the max varible which will contain the max value among the possible 
               jumps from current position </br>
             - iterate the array from leftAirport to rightAIrport to compute the max value
               among the possible jumps and  save it into the max varible</br>
