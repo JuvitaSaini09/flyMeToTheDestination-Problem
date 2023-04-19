@@ -1,7 +1,7 @@
 # flyMeToTheDestination-Problem Explanation
 
 **1) If** </br> 
-     check in if whether the first element is zero or not and if it is 0 then return -1;</br></br>
+     check whether the first element is zero or not and if it is 0 then return -1;</br></br>
 **2) Else** </br></br>
        **a)  Initialise variables:** </br>
            - `fuelAirportsArrLength` for length of the array </br >
