@@ -5,9 +5,9 @@
 **2) Else** </br></br>
        **a)  Initialise variables:** </br>
            - `fuelAirportsArrLength` for length of the array </br >
-           - `flightCount` to track the number of jumps or flights </br>
+           - `flightCount` to track the number of flights </br>
            - `leftAirport` and `rightAirport` to keep track of the starting and max reachable index in array
-           for current iteration </br></br>
+           for current flight </br></br>
        **b) Iterate while loop till last second airport (rightAirport < fuelAtAirportsArrLength - 1)**</br>
          For loop for one flight : </br>
             - intialise the max varibale which will contain the max value among the possible 
